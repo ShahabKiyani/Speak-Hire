@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import Dictaphone from './AudioRecorder';
+import Dictaphone from './components/AudioRecorder';
 
 function App() {
   const [responseMessage, setResponseMessage] = useState('');

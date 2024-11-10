@@ -17,6 +17,7 @@ const Dictaphone = ({setTranscript}) => {
       <p>Microphone: {listening ? 'on' : 'off'}</p>
       <button onClick={()=>{SpeechRecognition.startListening({continuous:true})}}>Start</button>
       <button onClick={()=>{SpeechRecognition.stopListening()
+      
         console.log(finalTranscript)
         setTranscript(finalTranscript)
       }}>Stop</button>
