@@ -5,6 +5,10 @@ import time
 from openai.error import RateLimitError, OpenAIError
 
 
+API_KEY = ""
+openai.api_key = "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"
+
+
 app = Flask(__name__)
 
 def handle_transcript(transcript):
