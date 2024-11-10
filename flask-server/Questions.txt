@@ -1,0 +1,5 @@
+Can you walk us through how you would approach solving a problem where you need to find the shortest path between two nodes in an unweighted graph? What algorithm would you use, and how would you handle edge cases such as disconnected graphs?
+Explain the difference between a stack and a queue. In what scenarios would you use one over the other? Could you provide an example where using the wrong data structure could cause performance issues?
+Write a function that takes a string and returns the first non-repeating character. How would you ensure your solution is efficient, and what is the time complexity of your approach?
+Tell us about a time when you had to debug a challenging issue in your code. What steps did you take to identify and resolve the problem, and how do you generally approach debugging?
+As an intern, you may be working on projects with others. How do you handle situations where team members disagree on an approach or solution to a problem? Can you give an example of how you resolved a similar situation in the past?
