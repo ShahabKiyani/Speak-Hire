@@ -47,9 +47,7 @@ Speak-Hire-main/
 │
 └── start.bat # Batch file to initiate the app
 
-markdown
-Copy
-Edit
+
 
 ## 📌 Use Case
 
